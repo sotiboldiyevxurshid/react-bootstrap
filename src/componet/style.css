@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background: blue;
+}
+.list{
+    display: flex;
+    justify-content: end;
+}
+
+.list_item{
+    list-style: none;
+    padding: 20px;
+}
+
+section{
+    background: rebeccapurple;
+}
